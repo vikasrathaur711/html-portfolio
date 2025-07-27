@@ -1,3 +1,3 @@
 #vikasRathaur demo
 <br>
-auther -vikas
+auther -vikas rathore
